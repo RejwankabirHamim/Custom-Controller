@@ -1,3 +1,1 @@
-Generated a Crd using code generator 
-
-go run main.go // create a bookstore resource for you
+Generated a Custom Controller for BookStore Custom resource 
