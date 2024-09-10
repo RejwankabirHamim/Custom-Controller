@@ -3,7 +3,7 @@ module github.com/RejwankabirHamim/crd
 go 1.22.4
 
 require (
-	github.com/Sumon009838/CRD v0.0.0-20240827120909-fe06f452a3b6
+	
 	k8s.io/apimachinery v0.31.0
 	k8s.io/client-go v0.31.0
 	k8s.io/code-generator v0.31.0
